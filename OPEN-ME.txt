@@ -1,0 +1,7 @@
+PRODBYGOURD website preview
+
+1. Double-click index.html to open the home page in your browser.
+2. Use the menu to visit About, EPK, Music, Freelance, and Contact.
+3. Some external features (email signup, YouTube, forms) require an internet connection.
+
+This is a preview copy. To publish on GitHub Pages, upload the files and folders without changing their structure.
